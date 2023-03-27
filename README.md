@@ -1,0 +1,1 @@
+# Rosenblatt-s-perceptron-model
